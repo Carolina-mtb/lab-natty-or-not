@@ -20,32 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Desvendando os Chacras: Energia e Equilíbrio
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 11 páginas explora o conceito de Chacras e como eles impactam na vida das pessoas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+•	IA Generativa ChatGPT para roteirização e conteúdo;
+•	IA Generativa Leonardo AI para criar a arte visual do e-book;
+•	Ferramenta Word para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre Chacras, estruturar o conteúdo e refinar minhas ideias. 
+O "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book.
+Para concluir, a montagem final foi feita no Word para edição de texto e formatação do e-book.
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre Chacras, estruturar o conteúdo e refinar minhas ideias. 
+O "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book.
+Para concluir, a montagem final foi feita no Word para edição de texto e formatação do e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, explicando sobre os Chacras e demonstrando como seu equilíbrio ou desequilíbrio podem afetar a vida de uma pessoa, indicando ferramentas para equilibrar o sistema de chacras principais.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+https://github.com/Carolina-mtb/lab-natty-or-not
+
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
